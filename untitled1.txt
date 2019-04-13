@@ -1,0 +1,7 @@
+# Graduation Project
+# ---------------------------------
+
+For a long time, lots of finance institutions started to take advantage of machine learning and statistical algorithms in order to increase performance and efficiency on business. In this project, we want to use different machine learning algorithms such as logistic regression, SVM, decision trees, hierarchical clustering and statistical methods in order to analyze data and prepare it for better predictions.
+
+Mainly, we used statistical methods such as covariance matrix, correlation matrix and machine learning algorithms such as decision trees, hierarchical clustering for preparing dataset for making predictions; logistic regression and support vector machine algorithms to make predictions from our dataset.
+
